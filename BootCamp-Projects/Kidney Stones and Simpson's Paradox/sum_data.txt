@@ -1,0 +1,12 @@
+# A tibble: 8 x 5
+# Groups:   treatment, stone_size [4]
+  treatment stone_size success     N  Freq
+  <chr>     <chr>        <int> <int> <dbl>
+1 A         large            0    71 0.27 
+2 A         large            1   192 0.73 
+3 A         small            0     6 0.069
+4 A         small            1    81 0.931
+5 B         large            0    25 0.312
+6 B         large            1    55 0.688
+7 B         small            0    36 0.133
+8 B         small            1   234 0.867

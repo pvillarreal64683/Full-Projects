@@ -1,0 +1,6 @@
+# A tibble: 3 x 5
+  term            estimate std.error statistic  p.value
+  <chr>              <dbl>     <dbl>     <dbl>    <dbl>
+1 (Intercept)        1.03      0.134      7.68 1.55e-14
+2 stone_sizesmall    1.26      0.239      5.27 1.33e- 7
+3 treatmentB        -0.357     0.229     -1.56 1.19e- 1
